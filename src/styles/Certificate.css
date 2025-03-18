@@ -1,0 +1,16 @@
+
+.certificate {
+  text-align: center;
+  padding: 20px;
+}
+
+.certificate-image {
+  width: 100%;
+  max-width: 600px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+.canvas{
+  width: 100px;
+}
